@@ -27,6 +27,8 @@
         "@nestjs/common": "^5.0.1",
         "@nestjs/core": "^5.0.1",
         "@nestjs/testing": "^5.0.1",
+        "@types/config": "0.0.34",
+        "config": "^1.30.0",
         "reflect-metadata": "^0.1.12",
         "rxjs": "^6.2.1",
         "typescript": "^2.9.2",
